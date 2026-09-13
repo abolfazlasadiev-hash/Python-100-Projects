@@ -1,31 +1,27 @@
 # Hello World
 
-A simple Python project that prints **Hello, World!** to the console.
+## Description
 
-## Requirements
+A simple Python program that prints `Hello, World!` to the console.
 
-* Python 3.x
+## Concepts Practiced
 
-## Usage
+* `print()`
+* Console output
+* Basic Python syntax
 
-Run the program with:
+## How to Run
 
 ```bash
-python hello_world.py
+python HelloWorld.py
 ```
 
-## Output
+## Expected Output
 
 ```text
 Hello, World!
 ```
 
-## Project Structure
+## Goal
 
-```text
-hello-world/
-├── hello_world.py
-└── README.md
-```
-
-Abolfazl Asadi
+Practice writing and running a basic Python program and displaying output in the console.

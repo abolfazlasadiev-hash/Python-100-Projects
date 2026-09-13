@@ -68,8 +68,8 @@ Fundamental Python concepts and simple console applications.
 
 * [x] **01 — Hello World**
 * [x] **02 — Personal Greeting**
-* [ ] **03 — Sum Two Numbers**
-* [ ] **04 — Basic Calculator**
+* [x] **03 — Sum Two Numbers**
+* [x] **04 — Basic Calculator**
 * [ ] **05 — Celsius to Fahrenheit**
 * [ ] **06 — Rectangle Calculator**
 * [ ] **07 — Even or Odd**

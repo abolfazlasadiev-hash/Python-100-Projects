@@ -60,10 +60,4 @@ Start with simple console output and user input, then gradually combine these co
 * [ ] 09 — Simple Interest Calculator
 * [ ] 10 — Unit Converter
 
-**Progress: 0 / 10 completed**
-
-## Next Category
-
-After completing these projects, continue with:
-
-**Category 02 — Conditions & Loops**
+**Progress: 4 / 10 completed**
